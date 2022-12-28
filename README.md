@@ -1,11 +1,11 @@
 <h1 align="center">Newsletter</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/mpaullos/bateria-game?color=aa73f5">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/mpaullos/Newsletter-Signup?color=aa73f5">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/mpaullos/bateria-game?color=aa73f5">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/mpaullos/Newsletter-Signup?color=aa73f5">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/mpaullos/bateria-game?color=aa73f5">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/mpaullos/Newsletter-Signup?color=aa73f5">
 </p>
 
 
